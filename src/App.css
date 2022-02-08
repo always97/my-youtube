@@ -36,24 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.nav {
-  display: flex;
-}
-
-.card-box {
-  background-color: #61dafb;
-  display: flex;
-  width: 500px;
-}
-
-.card-box .card-img {
-  width: 5.5rem;
-  height: 3.5rem;
-  background-color: antiquewhite;
-}
-.card-box .card-exp {
-  width: 5.5rem;
-  height: 3.5rem;
-  background-color: aquamarine;
-}
